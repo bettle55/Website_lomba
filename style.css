@@ -1,15 +1,15 @@
  :root {
-      --warna-gelap: #22577A;
-      --warna-redup: #38A3A5;
-      --warna-aksen: #57CC99;
-      --warna--kata:#80ED99;
+      --warna-gelap: #256d1bff;
+      --warna-redup:  #149911ff;;
+      --warna-aksen: #1efc1eff;
+      --warna--kata:#244f26ff;
     }
 
     html, body {
       height: 100%;
       font-family: Inter, system-ui, Segoe UI, Roboto, "Helvetica Neue", Arial;
       margin: 0;
-      background: #0f1724;
+      background: #dce0d9ff;
       color: var(--warna-aksen);
     }
 
@@ -377,4 +377,5 @@
       background-color: #80ED99;
       color: #22577A;
       transform: scale(1.05);
+
     }
